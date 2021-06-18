@@ -4,3 +4,6 @@ This is a simple game which has been created to get familiar with the pygame lib
 ## Installation
 This project was completed using Python 3.9. You can install Pyhton for you system [here](https://www.python.org/). I recommend using a virtual envirnoment. To install the dependencies run:
 `pip3 install --upgrade -r requirements.txt`
+
+## Running the game
+To run the game, simply run the `main.py` file.
